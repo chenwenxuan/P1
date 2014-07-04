@@ -1,0 +1,5 @@
+﻿variables:
+var 1 : ${webwork.jsp.include_flush}
+var 2 : ${webwork.i18n.encoding}
+var 3 : ${webwork.ui.templateSuffix}
+var 4 : ${webwork.ui.notfound}
